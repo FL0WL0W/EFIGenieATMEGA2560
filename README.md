@@ -7,4 +7,4 @@ environment setup
 
 install latest version of <a href="https://github.com/modm-io/avr-gcc">avr-gcc10</a> using the guide that can be found <a href="https://modm.io/guide/installation/#microchip-avr">here</a>
 
-git clone --recurse-submodules --jobs 8 https://github.com/FL0WL0W/EFIGenieATMEGA2560
+git clone --recurse-submodules --jobs 8
